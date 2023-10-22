@@ -1,0 +1,4 @@
+# E-Bike Research
+In the Netherlands, the usage of E-bikes has increased dramatically in recent years. My girlfriend is researching the correlation between usage and safety incidents as preparation of a media job interview. I try to help her out by extracting data points from news sources and providing them in an accessible fashion.
+
+I started out by using the Google News RSS feed, but this feature has been deprecated and has not delivered satisfactory results up to now. Therefore I plan to attempt the free version fo the NewsCatcher News API (https://newscatcherapi.com/) to see if this improve the quality of the data points, currently awaiting access admission.
