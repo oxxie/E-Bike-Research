@@ -1,3 +1,8 @@
 /.DS_Store
 /GoogleNewsRSS/.DS_Store
 /GoogleNewsRSS/.vscode
+/GoogleNewsRSS/venv
+/NewsCatcherNewsAPI/.DS_Store
+/NewsCatcherNewsAPI/.vscode
+/NewsCatcherNewsAPI/venv
+/.env.toml
